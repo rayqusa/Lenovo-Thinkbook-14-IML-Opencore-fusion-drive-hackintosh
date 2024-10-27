@@ -43,7 +43,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  
  `Integrated Graphics`:   **Intel UHD Graphic 620**
  
- `Wireless Cards Tested`: **Fenvi Intel 9560NGW**
+ `Wireless Cards Tested`: **Fenvi Intel 9560NGW** please install heliport
 
  `Ethernet` : Realtek RTL8111
 
