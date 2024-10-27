@@ -1,6 +1,6 @@
 This is my First Github guide and code
 
-## :star_struck: :star_struck: Now the EFI supports Ventura!!:star_struck: :star_struck:
+## :star_struck: :star_struck: Now the EFI supports Sequoia!!:star_struck: :star_struck:
 <hr>
 
 ## Lenovo-Thinkbook-14-IML-Opencore-guide.
@@ -8,7 +8,7 @@ This is my First Github guide and code
 
 <hr>
 
-![img](https://img.shields.io/badge/macOS%20Support-Ventura--latest-blue)![img](https://img.shields.io/badge/OpenCore%20Version-1.0.2-red)
+![img](https://img.shields.io/badge/macOS%20Support-Sequoia--latest-blue)![img](https://img.shields.io/badge/OpenCore%20Version-1.0.2-red)
 
 - These are the builts from me.  You might get the future updates for this machine.
  Report me If you find the bugs or any issues. And do not hope any update from me, I am a Newbie.
@@ -43,7 +43,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  
  `Integrated Graphics`:   **Intel UHD Graphic 620**
  
- `Wireless Cards Tested`: **Fenvi BCM94360NG**
+ `Wireless Cards Tested`: **Fenvi Intel 9560NGW**
 
  `Ethernet` : Realtek RTL8111
 
@@ -74,7 +74,8 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  <summary><strong>What's not working ⚠️</strong></summary>
  </br>
  
-* :heavy_exclamation_mark: none
+  - :heavy_check_mark: Bluetooth
+  - :heavy_check_mark: Airdrop
 </details>
 
  <hr>
