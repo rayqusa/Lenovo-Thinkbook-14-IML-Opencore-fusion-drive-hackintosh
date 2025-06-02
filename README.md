@@ -43,7 +43,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  
  `Integrated Graphics`:   **Intel UHD Graphic 620**
  
- `Wireless Cards Tested`: **Fenvi Intel 9560NGW** please install heliport
+ `Wireless Cards Tested`: **fenvi BCM94360NG**
 
  `Ethernet` : Realtek RTL8111
 
@@ -74,8 +74,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  <summary><strong>What's not working ⚠️</strong></summary>
  </br>
  
-  - :heavy_check_mark: Bluetooth
-  - :heavy_check_mark: Airdrop
+  - :heavy_check_mark: let me know
 </details>
 
  <hr>
