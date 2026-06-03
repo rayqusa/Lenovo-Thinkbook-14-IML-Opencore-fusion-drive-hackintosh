@@ -214,3 +214,5 @@ Follow this [Opencore guide](https://dortania.github.io/OpenCore-Post-Install/un
 - [Dortania OC guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [CorpNewt's tools](https://github.com/corpnewt) for propertree
 - [aamirswati](https://github.com/aamirswati/LenovoThinkbook15-IML-Hackintosh) , for initial EFI.
+
+footnote: if you cant boot on latest release, use other release, or use ventura version. and try fixing from one you can boot
